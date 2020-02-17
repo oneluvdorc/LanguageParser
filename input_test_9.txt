@@ -1,0 +1,2 @@
+let x=5; let y=1;
+while (x>1) do let y=(x*y); let x=(x-1);; y;
